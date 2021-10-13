@@ -2,6 +2,13 @@
 
 This repo create eks cluster with 2 node groups one public and second private.
 
+First CLone this Repo.
+
+then follow steps as per readme.txt and then s3.txt
+
+after successfully cluster created update kubeconfig. steps also mentioned in .txt file.
+
+
 <h1 align="center">Hi 👋, I'm Hardik Patel</h1>
 <h3 align="center">Devops & Cloud Infrastructure Engineer,India</h3>
 
