@@ -6,8 +6,11 @@ First CLone this Repo.
 
 then follow steps as per readme.txt and then s3.txt
 
-after successfully cluster created update kubeconfig. steps also mentioned in .txt file.
+after successfully cluster created update kubeconfig.
 
+
+
+### STEPS To Follows
 
 
 first setup aws profile in cli.
