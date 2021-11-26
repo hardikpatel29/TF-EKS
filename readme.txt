@@ -8,7 +8,7 @@ export REGION=us-east-1
 export BUCKET_NAME=demo-eks-bucket-1123456
 export AWS_PROFILE=nameofprofile
 
-then create s3 bucket as backend for terraform via s3.sh script.
+then create s3 bucket as backend for terraform steps mentioned in s3.txt.
 
 last hit terraform command 
 
